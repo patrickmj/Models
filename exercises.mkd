@@ -1,0 +1,13 @@
+# Models Exercises
+
+## Add 'in_reply_to_user_id' to the Tweet model
+* copy and modify the sql that creates Tweets in the database
+
+## Create a simple twitter user model
+* think about how users will be related to their tweets
+* create the model class
+* copy and modify the sql that creates Tweets in the database
+    * the `id` should be exactly the same
+    * integers like identifiers will be like `tweet_id`
+    * text values will be like `text`
+    * modify the uninstall hook to remove your new database table when the plugin is uninstalled
