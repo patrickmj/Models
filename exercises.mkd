@@ -1,4 +1,4 @@
-# Models Exercise
+# Models Exercises
 
 ## Add 'in_reply_to_user_id' to the Tweet model
 * copy and modify the sql that creates Tweets in the database
